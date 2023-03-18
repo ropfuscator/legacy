@@ -1,3 +1,27 @@
+## Disclaimer
+ 
+ROPfuscator is a research proof of concept and is not intended for production use. The authors do not take any responsibility or liability for the use of the software. Please exercise caution and use at your own risk.
+
+---
+
+# Repository Deprecated
+
+**IMPORTANT: This repository has been deprecated and is no longer being maintained.**
+
+We have decided to deprecate this repository in favor of a new and improved repository, which provides stronger reproducibility of the entire toolset and will be the base for all future work. We highly recommend users switch to the new repository for the latest updates and ongoing support.
+
+**Please visit the new repository [here](https://github.com/ropfuscator/ropfuscator).**
+
+If you have any questions or need assistance, please feel free to open an issue in the new repository or reach out to the team.
+
+## Interested in extending the work? 
+
+We encourage collaboration and are open to discussing potential extensions or improvements to the project. If you are interested in contributing, please reach out to us through the contact information provided above, or open an issue in the new repository.
+
+Thank you for your understanding and support!
+
+---
+
 # ROPfuscator
 
 ![logo](https://i.imgur.com/dSAJ2VG.png)
